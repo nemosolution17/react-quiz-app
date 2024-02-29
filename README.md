@@ -10,6 +10,7 @@ This is a Quiz web application that allows users to take quizzes on various topi
 
 ## Technologies Used
 - ReactJS
+- TypeScript
 
 ## Getting Started
 To get a local copy of the project up and running, follow these steps:
